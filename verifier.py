@@ -12,6 +12,7 @@ class WorldDataVerifier(object):
         self.countries = self._load_data(key='countries')
         self.states = self._load_data(key='states')
         self.cities = self._load_data(key='cities')
+        self.places = self._load_data(key='places/PK')
 
     def _load_data(self, key):
         with open(f'data/{key}.json', 'r+') as f:
@@ -36,8 +37,8 @@ class WorldDataVerifier(object):
             self.update()
 
     def update(self):
-        self._dump_data(key='countries', data=self.countries)
-        self._dump_data(key='states', data=self.states)
+        # self._dump_data(key='countries', data=self.countries)
+        # self._dump_data(key='states', data=self.states)
         self._dump_data(key='cities', data=self.cities)
 
     def verify_states(self):
@@ -60,14 +61,14 @@ class WorldDataVerifier(object):
 
     def verify_cities(self):
         for country in self.countries:
-            if country['code'] == 'IN':
+            if country['code'] == 'PK':
                 self.verify_city_of_country(country)
                 break
 
     def verify_city_of_country(self, country):
         country = country.get('code')
         states = self.states.get(country)
-        states = {state.get('name').encode('utf-8') for state in states}
+        states = {state.get('name'): state for state in states}
         cities = self.cities.get(country, [])
         if not cities:
             print(f'No city found for {country}')
@@ -76,24 +77,28 @@ class WorldDataVerifier(object):
                 print(
                     f'State {city.get("state")} for city {city.get("name")} and country {country} not found in states'
                 )
+            slug_key = f'{country} {city.get("state")} {city.get("name")} {randint(100, 1000)}'
+            city['slug'] = slugify(slug_key)
+            city['state'] = {
+                'slug': states.get(city.get('state')).get('slug'),
+                'name': city.get('state')
+            }
 
     def set_place(self):
-        places = self._load_data(key='places/PK')
         selected = []
-        states = self.states.get('PK')
-        state_slug = {state.get('name'): state.get('slug') for state in states}
-        for place in places:
-            place.pop('id')
-            place.pop('objectID')
-            slug_key = f'PK {place.get("name")} {place.get("state")} {randint(100, 10000)}'
-            if place['name'] != 'Others':
-                place['slug'] = slugify(slug_key)
-                place['state'] = {
-                    'slug': state_slug.get(place.get('state')),
-                    'name': place.get('state')
-                }
-                selected.append(place)
-        self._dump_data(key='places/PK-1', data=selected)
+        # states = self.states.get('PK')
+        # state_slug = {state.get('name'): state.get('slug') for state in states}
+        # for place in self.places:
+        #     place.pop('id')
+        #     place.pop('objectID')
+        #     slug_key = f'PK {place.get("name")} {place.get("state")} {randint(100, 10000)}'
+        #     place['slug'] = slugify(slug_key)
+        #     place['state'] = {
+        #         'slug': state_slug.get(place.get('state')),
+        #         'name': place.get('state')
+        #     }
+        #     selected.append(place)
+        # self.places = selected
 
 
-WorldDataVerifier(update_file=False).verify()
+WorldDataVerifier(update_file=True).verify()

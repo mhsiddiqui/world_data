@@ -44,7 +44,7 @@
         },
         {
             "country": "AE",
-            "name": "Ra\u02bcs al Khaimah",
+            "name": "Ra\u2019s al Khaymah",
             "slug": "ae-ras-al-khaimah"
         },
         {
@@ -81,7 +81,7 @@
         },
         {
             "country": "AF",
-            "name": "Maidan Wardak Province",
+            "name": "Maidan Wardak",
             "slug": "af-maidan-wardak-province"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
             "country": "AF",
-            "name": "Sar-e Pol Province",
+            "name": "Sar-e Pol",
             "slug": "af-sar-e-pol-province"
         },
         {
@@ -116,8 +116,8 @@
         },
         {
             "country": "AF",
-            "name": "Oruzgan",
-            "slug": "af-oruzgan"
+            "name": "Uruzgan",
+            "slug": "af-uruzgan"
         },
         {
             "country": "AF",
@@ -7044,8 +7044,8 @@
         },
         {
             "country": "IN",
-            "name": "Laccadives",
-            "slug": "in-laccadives"
+            "name": "Lakshadweep",
+            "slug": "in-lakshadweep"
         },
         {
             "country": "IN",
@@ -7074,8 +7074,8 @@
         },
         {
             "country": "IN",
-            "name": "Gujarat",
-            "slug": "in-gujarat"
+            "name": "Gujrat",
+            "slug": "in-gujrat"
         },
         {
             "country": "IN",
@@ -9631,7 +9631,7 @@
         },
         {
             "country": "LY",
-            "name": "Ash Sha\u0163i\u02bc",
+            "name": "Ash Shariqah",
             "slug": "ly-ash-shati"
         },
         {

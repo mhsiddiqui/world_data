@@ -31,6 +31,7 @@ class WorldDataVerifier(object):
     def verify(self):
         self.verify_states()
         self.verify_cities()
+        self.set_place()
         if self.update_file:
             self.update()
 
@@ -58,14 +59,41 @@ class WorldDataVerifier(object):
                     state['slug'] = slugify(f'{slug_key} {randint(100, 10000)}')
 
     def verify_cities(self):
-        i = 0
-        for country, states in self.states.items():
-            states = {state.get('name') for state in states}
-            cities = self.cities.get(country, [])
-            if not cities:
-                print(f'No city found for {country}')
-            # for city in cities:
-            #     if city.get('state') not in states:
-            #         print(f'State {city.get("state")} for city {city.get("name")} and country {country} not found in states')
-            #         i += 1
-        print(i)
+        for country in self.countries:
+            if country['code'] == 'IN':
+                self.verify_city_of_country(country)
+                break
+
+    def verify_city_of_country(self, country):
+        country = country.get('code')
+        states = self.states.get(country)
+        states = {state.get('name').encode('utf-8') for state in states}
+        cities = self.cities.get(country, [])
+        if not cities:
+            print(f'No city found for {country}')
+        for city in cities:
+            if city.get('state').encode('utf-8') not in states:
+                print(
+                    f'State {city.get("state")} for city {city.get("name")} and country {country} not found in states'
+                )
+
+    def set_place(self):
+        places = self._load_data(key='places/PK')
+        selected = []
+        states = self.states.get('PK')
+        state_slug = {state.get('name'): state.get('slug') for state in states}
+        for place in places:
+            place.pop('id')
+            place.pop('objectID')
+            slug_key = f'PK {place.get("name")} {place.get("state")} {randint(100, 10000)}'
+            if place['name'] != 'Others':
+                place['slug'] = slugify(slug_key)
+                place['state'] = {
+                    'slug': state_slug.get(place.get('state')),
+                    'name': place.get('state')
+                }
+                selected.append(place)
+        self._dump_data(key='places/PK-1', data=selected)
+
+
+WorldDataVerifier(update_file=False).verify()

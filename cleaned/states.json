@@ -1,0 +1,74 @@
+{
+  "PK": [
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 33.663,
+      "longitude": 73.79125,
+      "name": "Azad Kashmir",
+      "slug": "pk-azad-kashmir"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 27.4070909090909,
+      "longitude": 65.7115454545455,
+      "name": "Balochistan",
+      "slug": "pk-balochistan"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 33.687,
+      "longitude": 73.021,
+      "name": "Islamabad Capital Territory",
+      "slug": "pk-islamabad-capital-territory"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 34.0806923076923,
+      "longitude": 71.9456153846154,
+      "name": "Khyber Pakhtunkhwa",
+      "slug": "pk-khyber-pakhtunkhwa"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 35.5472857142857,
+      "longitude": 75.1345714285714,
+      "name": "Northern Areas",
+      "slug": "pk-northern-areas"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 31.4567857142857,
+      "longitude": 72.8711,
+      "name": "Punjab",
+      "slug": "pk-punjab"
+    },
+    {
+      "country": {
+        "slug": "PK",
+        "name": "Pakistan"
+      },
+      "latitude": 26.3863333333333,
+      "longitude": 68.6134285714286,
+      "name": "Sindh",
+      "slug": "pk-sindh"
+    }
+  ]
+}

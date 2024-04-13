@@ -1,0 +1,2284 @@
+{
+  "PK": [
+    {
+      "latitude": 24.66231,
+      "longitude": 68.83759,
+      "name": "Badin",
+      "slug": "pk-sindh-badin",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.73304,
+      "longitude": 67.77131,
+      "name": "Dadu",
+      "slug": "pk-sindh-dadu",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 28.052433,
+      "longitude": 69.702921,
+      "name": "Daharki",
+      "slug": "pk-sindh-daharki",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.456773,
+      "longitude": 68.318786,
+      "name": "Daur",
+      "slug": "pk-sindh-daur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.302524,
+      "longitude": 67.605262,
+      "name": "Gaarho",
+      "slug": "pk-sindh-gaarho",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.352786,
+      "longitude": 68.521502,
+      "name": "Gambat",
+      "slug": "pk-sindh-gambat",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.81069,
+      "longitude": 67.44617,
+      "name": "Gharo",
+      "slug": "pk-sindh-gharo",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 28.02474,
+      "longitude": 69.31933,
+      "name": "Ghotki",
+      "slug": "pk-sindh-ghotki",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.81535,
+      "longitude": 68.42113,
+      "name": "Hala",
+      "slug": "pk-sindh-hala",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.38196,
+      "longitude": 68.36593,
+      "name": "Hyderabad",
+      "slug": "pk-sindh-hyderabad",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 28.28382,
+      "longitude": 68.44448,
+      "name": "Jacobabad",
+      "slug": "pk-sindh-jacobabad",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.41785,
+      "longitude": 68.27557,
+      "name": "Jamshoro",
+      "slug": "pk-sindh-jamshoro",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.060012,
+      "longitude": 68.208371,
+      "name": "Kandiaro",
+      "slug": "pk-sindh-kandiaro",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.91891,
+      "longitude": 67.0157,
+      "name": "Karachi",
+      "slug": "pk-sindh-karachi",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.52972,
+      "longitude": 68.75003,
+      "name": "Khairpur",
+      "slug": "pk-sindh-khairpur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.825997,
+      "longitude": 69.377304,
+      "name": "Khipro",
+      "slug": "pk-sindh-khipro",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.373541,
+      "longitude": 68.296146,
+      "name": "Kotri",
+      "slug": "pk-sindh-kotri",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.56001,
+      "longitude": 68.21018,
+      "name": "Larkana",
+      "slug": "pk-sindh-larkana",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.600103,
+      "longitude": 68.450097,
+      "name": "Matiari",
+      "slug": "pk-sindh-matiari",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.045429,
+      "longitude": 68.657795,
+      "name": "Matli",
+      "slug": "pk-sindh-matli",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.09891,
+      "longitude": 68.421314,
+      "name": "Mehrabpur",
+      "slug": "pk-sindh-mehrabpur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.52385,
+      "longitude": 69.01611,
+      "name": "Mirpur Khas",
+      "slug": "pk-sindh-mirpur-khas",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.548073,
+      "longitude": 67.626819,
+      "name": "Mirpur Sakro",
+      "slug": "pk-sindh-mirpur-sakro",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.667997,
+      "longitude": 67.996697,
+      "name": "Moro",
+      "slug": "pk-sindh-moro",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.849946,
+      "longitude": 68.133496,
+      "name": "Naushahro Feroze",
+      "slug": "pk-sindh-naushahro-feroze",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.24508,
+      "longitude": 68.40191,
+      "name": "Nawabshah",
+      "slug": "pk-sindh-nawabshah",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.298202,
+      "longitude": 68.102337,
+      "name": "Qazi Ahmed",
+      "slug": "pk-sindh-qazi-ahmed",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.80045,
+      "longitude": 68.28783,
+      "name": "Ratodero",
+      "slug": "pk-sindh-ratodero",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.679708745078,
+      "longitude": 68.899319171906,
+      "name": "Rohri",
+      "slug": "pk-sindh-rohri",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.139538,
+      "longitude": 68.269707,
+      "name": "Sakrand",
+      "slug": "pk-sindh-sakrand",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.0435693,
+      "longitude": 68.947998,
+      "name": "Sanghar",
+      "slug": "pk-sindh-sanghar",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.419873,
+      "longitude": 67.859092,
+      "name": "Sehwan Sharif",
+      "slug": "pk-sindh-sehwan-sharif",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.923361,
+      "longitude": 68.620818,
+      "name": "Shahdadpur",
+      "slug": "pk-sindh-shahdadpur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 26.155859,
+      "longitude": 68.651145,
+      "name": "Shahpur Chakar",
+      "slug": "pk-sindh-shahpur-chakar",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.94892,
+      "longitude": 68.63605,
+      "name": "Shikarpur",
+      "slug": "pk-sindh-shikarpur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.605136,
+      "longitude": 68.077546,
+      "name": "Sujawal",
+      "slug": "pk-sindh-sujawal",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 27.73186,
+      "longitude": 68.82935,
+      "name": "Sukkur",
+      "slug": "pk-sindh-sukkur",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.76372,
+      "longitude": 68.66215,
+      "name": "Tando Adam",
+      "slug": "pk-sindh-tando-adam",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.458741,
+      "longitude": 68.719859,
+      "name": "Tando Allahyar",
+      "slug": "pk-sindh-tando-allahyar",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.78837,
+      "longitude": 68.967147,
+      "name": "Tando Bago",
+      "slug": "pk-sindh-tando-bago",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.046675,
+      "longitude": 68.452142,
+      "name": "Tando Muhammad Khan",
+      "slug": "pk-sindh-tando-muhammad-khan",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.83428,
+      "longitude": 69.968578,
+      "name": "Tharparkar",
+      "slug": "pk-sindh-tharparkar",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 24.74635,
+      "longitude": 67.92447,
+      "name": "Thatta",
+      "slug": "pk-sindh-thatta",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 25.41966,
+      "longitude": 69.7357,
+      "name": "Umerkot",
+      "slug": "pk-sindh-umerkot",
+      "state": {
+        "slug": "pk-sindh",
+        "name": "Sindh"
+      }
+    },
+    {
+      "latitude": 35.31820674025,
+      "longitude": 74.855818748474,
+      "name": "Astore",
+      "slug": "pk-northern-areas-astore",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 35.41911,
+      "longitude": 74.09762,
+      "name": "Chilas",
+      "slug": "pk-northern-areas-chilas",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 35.2222142550805,
+      "longitude": 76.4423224559564,
+      "name": "Ghanche",
+      "slug": "pk-northern-areas-ghanche",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 36.20439,
+      "longitude": 73.43262,
+      "name": "Ghizer",
+      "slug": "pk-northern-areas-ghizer",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 35.91309,
+      "longitude": 74.30765,
+      "name": "Gilgit",
+      "slug": "pk-northern-areas-gilgit",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 31.1704063,
+      "longitude": 72.7097161,
+      "name": "Hunza",
+      "slug": "pk-northern-areas-hunza",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 35.15973,
+      "longitude": 76.33085,
+      "name": "Khaplu",
+      "slug": "pk-northern-areas-khaplu",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 35.29485,
+      "longitude": 75.62117,
+      "name": "Skardu",
+      "slug": "pk-northern-areas-skardu",
+      "state": {
+        "slug": "pk-northern-areas",
+        "name": "Northern Areas"
+      }
+    },
+    {
+      "latitude": 33.97922,
+      "longitude": 73.79037,
+      "name": "Bagh",
+      "slug": "pk-azad-kashmir-bagh",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 32.869586,
+      "longitude": 74.245213,
+      "name": "Barnala(Azad Kashmir)",
+      "slug": "pk-azad-kashmir-barnala-azad-kashmir",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 32.98019,
+      "longitude": 74.07181,
+      "name": "Bhimber",
+      "slug": "pk-azad-kashmir-bhimber",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 33.50042,
+      "longitude": 73.90157,
+      "name": "Kotli",
+      "slug": "pk-azad-kashmir-kotli",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 33.14899,
+      "longitude": 73.75255,
+      "name": "Mirpur",
+      "slug": "pk-azad-kashmir-mirpur",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 34.3638,
+      "longitude": 73.47242,
+      "name": "Muzaffarabad",
+      "slug": "pk-azad-kashmir-muzaffarabad",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 34.425602519206,
+      "longitude": 73.689680099487,
+      "name": "Neelum",
+      "slug": "pk-azad-kashmir-neelum",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 33.71336,
+      "longitude": 73.68699,
+      "name": "Pallandri",
+      "slug": "pk-azad-kashmir-pallandri",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 33.774505,
+      "longitude": 74.094469,
+      "name": "Poonch",
+      "slug": "pk-azad-kashmir-poonch",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 34.16778,
+      "longitude": 73.21495,
+      "name": "Abbottabad",
+      "slug": "pk-khyber-pakhtunkhwa-abbottabad",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.02268,
+      "longitude": 71.26494,
+      "name": "Ali Masjid",
+      "slug": "pk-khyber-pakhtunkhwa-ali-masjid",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.549342,
+      "longitude": 73.353231,
+      "name": "Balakot",
+      "slug": "pk-khyber-pakhtunkhwa-balakot",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.98195,
+      "longitude": 70.60625,
+      "name": "Bannu",
+      "slug": "pk-khyber-pakhtunkhwa-bannu",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.6779,
+      "longitude": 73.02716,
+      "name": "Batagram",
+      "slug": "pk-khyber-pakhtunkhwa-batagram",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.614691,
+      "longitude": 71.929859,
+      "name": "Batkhela",
+      "slug": "pk-khyber-pakhtunkhwa-batkhela",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.4341,
+      "longitude": 72.48779,
+      "name": "Buner",
+      "slug": "pk-khyber-pakhtunkhwa-buner",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.15244,
+      "longitude": 71.74673,
+      "name": "Charsadda",
+      "slug": "pk-khyber-pakhtunkhwa-charsadda",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 35.85372,
+      "longitude": 71.7905,
+      "name": "Chitral",
+      "slug": "pk-khyber-pakhtunkhwa-chitral",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 31.83498,
+      "longitude": 70.89134,
+      "name": "Dera Ismail Khan",
+      "slug": "pk-khyber-pakhtunkhwa-dera-ismail-khan",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.163429,
+      "longitude": 72.233627,
+      "name": "Dobian",
+      "slug": "pk-khyber-pakhtunkhwa-dobian",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.201924189779,
+      "longitude": 70.307006835938,
+      "name": "FATA",
+      "slug": "pk-khyber-pakhtunkhwa-fata",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.186024,
+      "longitude": 72.67948,
+      "name": "Gadoon",
+      "slug": "pk-khyber-pakhtunkhwa-gadoon",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.058348248365,
+      "longitude": 73.409271240234,
+      "name": "Galyat",
+      "slug": "pk-khyber-pakhtunkhwa-galyat",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.53185,
+      "longitude": 71.0635,
+      "name": "Hangu",
+      "slug": "pk-khyber-pakhtunkhwa-hangu",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.00023,
+      "longitude": 72.93523,
+      "name": "Haripur",
+      "slug": "pk-khyber-pakhtunkhwa-haripur",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.33222,
+      "longitude": 70.11506,
+      "name": "Jandola",
+      "slug": "pk-khyber-pakhtunkhwa-jandola",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.776861,
+      "longitude": 73.525919,
+      "name": "Kaghan",
+      "slug": "pk-khyber-pakhtunkhwa-kaghan",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.02017,
+      "longitude": 71.0741,
+      "name": "Karak",
+      "slug": "pk-khyber-pakhtunkhwa-karak",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.57372,
+      "longitude": 71.42933,
+      "name": "Kohat",
+      "slug": "pk-khyber-pakhtunkhwa-kohat",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 35.37114,
+      "longitude": 73.11401,
+      "name": "Kohistan",
+      "slug": "pk-khyber-pakhtunkhwa-kohistan",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.605354,
+      "longitude": 70.909444,
+      "name": "Laki Marwat",
+      "slug": "pk-khyber-pakhtunkhwa-laki-marwat",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.10473,
+      "longitude": 71.1563,
+      "name": "Landi Kotal",
+      "slug": "pk-khyber-pakhtunkhwa-landi-kotal",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.79689,
+      "longitude": 71.82587,
+      "name": "Lower Dir",
+      "slug": "pk-khyber-pakhtunkhwa-lower-dir",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.52793,
+      "longitude": 71.93546,
+      "name": "Malakand",
+      "slug": "pk-khyber-pakhtunkhwa-malakand",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.33127,
+      "longitude": 73.19931,
+      "name": "Mansehra",
+      "slug": "pk-khyber-pakhtunkhwa-mansehra",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.19307,
+      "longitude": 72.04578,
+      "name": "Mardan",
+      "slug": "pk-khyber-pakhtunkhwa-mardan",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.76982,
+      "longitude": 72.36609,
+      "name": "Mingaora",
+      "slug": "pk-khyber-pakhtunkhwa-mingaora",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.00778,
+      "longitude": 70.06374,
+      "name": "Miram Shah",
+      "slug": "pk-khyber-pakhtunkhwa-miram-shah",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.9077,
+      "longitude": 73.6492,
+      "name": "Naran",
+      "slug": "pk-khyber-pakhtunkhwa-naran",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.85498,
+      "longitude": 73.756,
+      "name": "Rawalakot",
+      "slug": "pk-azad-kashmir-rawalakot",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 33.692923653746,
+      "longitude": 73.699378967285,
+      "name": "Sudhnoti",
+      "slug": "pk-azad-kashmir-sudhnoti",
+      "state": {
+        "slug": "pk-azad-kashmir",
+        "name": "Azad Kashmir"
+      }
+    },
+    {
+      "latitude": 34.00681,
+      "longitude": 71.98665,
+      "name": "Nowshera",
+      "slug": "pk-khyber-pakhtunkhwa-nowshera",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.89454,
+      "longitude": 70.10607,
+      "name": "Parachinar",
+      "slug": "pk-khyber-pakhtunkhwa-parachinar",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.00202,
+      "longitude": 71.51393,
+      "name": "Peshawar",
+      "slug": "pk-khyber-pakhtunkhwa-peshawar",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.218548,
+      "longitude": 71.555545,
+      "name": "Shabqadar",
+      "slug": "pk-khyber-pakhtunkhwa-shabqadar",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.81662,
+      "longitude": 72.73018,
+      "name": "Shangla",
+      "slug": "pk-khyber-pakhtunkhwa-shangla",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.11642,
+      "longitude": 72.47655,
+      "name": "Swabi",
+      "slug": "pk-khyber-pakhtunkhwa-swabi",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 35.1783,
+      "longitude": 72.36145,
+      "name": "Swat",
+      "slug": "pk-khyber-pakhtunkhwa-swat",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.20845,
+      "longitude": 70.38391,
+      "name": "Tank",
+      "slug": "pk-khyber-pakhtunkhwa-tank",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 34.12204,
+      "longitude": 71.10294,
+      "name": "Torkham",
+      "slug": "pk-khyber-pakhtunkhwa-torkham",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 35.26132,
+      "longitude": 71.9577,
+      "name": "Upper Dir",
+      "slug": "pk-khyber-pakhtunkhwa-upper-dir",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.30298,
+      "longitude": 69.58247,
+      "name": "Wana",
+      "slug": "pk-khyber-pakhtunkhwa-wana",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 32.662500354678,
+      "longitude": 69.804382324219,
+      "name": "Waziristan",
+      "slug": "pk-khyber-pakhtunkhwa-waziristan",
+      "state": {
+        "slug": "pk-khyber-pakhtunkhwa",
+        "name": "Khyber Pakhtunkhwa"
+      }
+    },
+    {
+      "latitude": 33.6873,
+      "longitude": 73.02072,
+      "name": "Islamabad",
+      "slug": "pk-islamabad-capital-territory-islamabad",
+      "state": {
+        "slug": "pk-islamabad-capital-territory",
+        "name": "Islamabad Capital Territory"
+      }
+    },
+    {
+      "latitude": 26.167763997953,
+      "longitude": 65.504608154297,
+      "name": "Awaran",
+      "slug": "pk-balochistan-awaran",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 29.296878793796,
+      "longitude": 64.707670211792,
+      "name": "Chaghi",
+      "slug": "pk-balochistan-chaghi",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 25.085545,
+      "longitude": 66.733206,
+      "name": "Gaddani",
+      "slug": "pk-balochistan-gaddani",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 25.16741,
+      "longitude": 62.31495,
+      "name": "Gwadar",
+      "slug": "pk-balochistan-gwadar",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 25.018367,
+      "longitude": 66.827287,
+      "name": "Hub Chowki",
+      "slug": "pk-balochistan-hub-chowki",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 29.02899,
+      "longitude": 66.58858,
+      "name": "Kalat",
+      "slug": "pk-balochistan-kalat",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 27.81108,
+      "longitude": 66.61581,
+      "name": "Khuzdar",
+      "slug": "pk-balochistan-khuzdar",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 25.8700025,
+      "longitude": 66.712915,
+      "name": "Lasbela",
+      "slug": "pk-balochistan-lasbela",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 30.3812,
+      "longitude": 68.58874,
+      "name": "Loralai",
+      "slug": "pk-balochistan-loralai",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 25.039104697463,
+      "longitude": 61.809682846069,
+      "name": "Makran",
+      "slug": "pk-balochistan-makran",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 26.066652138577,
+      "longitude": 62.714424133301,
+      "name": "Nasirabad",
+      "slug": "pk-balochistan-nasirabad",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 30.17563,
+      "longitude": 66.9756,
+      "name": "Quetta",
+      "slug": "pk-balochistan-quetta",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 29.547177213316,
+      "longitude": 67.871432304382,
+      "name": "Sibi",
+      "slug": "pk-balochistan-sibi",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 26.007928,
+      "longitude": 63.03934,
+      "name": "Turbat",
+      "slug": "pk-balochistan-turbat",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 31.34949,
+      "longitude": 69.47889,
+      "name": "Zhob",
+      "slug": "pk-balochistan-zhob",
+      "state": {
+        "slug": "pk-balochistan",
+        "name": "Balochistan"
+      }
+    },
+    {
+      "latitude": 30.549057,
+      "longitude": 72.132453,
+      "name": "Abdul Hakim",
+      "slug": "pk-punjab-abdul-hakim",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.14725,
+      "longitude": 71.25705,
+      "name": "Ahmadpur East",
+      "slug": "pk-punjab-ahmadpur-east",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.386277,
+      "longitude": 70.918164,
+      "name": "Alipur",
+      "slug": "pk-punjab-alipur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.29391,
+      "longitude": 73.06114,
+      "name": "Arifwala",
+      "slug": "pk-punjab-arifwala",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.78172,
+      "longitude": 72.36076,
+      "name": "Attock",
+      "slug": "pk-punjab-attock",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.99598,
+      "longitude": 73.25718,
+      "name": "Bahawalnagar",
+      "slug": "pk-punjab-bahawalnagar",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.38389,
+      "longitude": 71.70009,
+      "name": "Bahawalpur",
+      "slug": "pk-punjab-bahawalpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.62835,
+      "longitude": 71.0691,
+      "name": "Bhakkar",
+      "slug": "pk-punjab-bhakkar",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.275687,
+      "longitude": 72.904302,
+      "name": "Bhalwal",
+      "slug": "pk-punjab-bhalwal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.16012,
+      "longitude": 72.67902,
+      "name": "Burewala",
+      "slug": "pk-punjab-burewala",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.92797,
+      "longitude": 72.85478,
+      "name": "Chakwal",
+      "slug": "pk-punjab-chakwal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.54153,
+      "longitude": 72.72146,
+      "name": "Chichawatni",
+      "slug": "pk-punjab-chichawatni",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.72221,
+      "longitude": 72.98175,
+      "name": "Chiniot",
+      "slug": "pk-punjab-chiniot",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.79775,
+      "longitude": 72.85892,
+      "name": "Chishtian Mandi",
+      "slug": "pk-punjab-chishtian-mandi",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.797273,
+      "longitude": 72.857294,
+      "name": "Chishtian Sharif",
+      "slug": "pk-punjab-chishtian-sharif",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.72254,
+      "longitude": 72.980044,
+      "name": "Choa Saidan Shah",
+      "slug": "pk-punjab-choa-saidan-shah",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.96406784352,
+      "longitude": 73.977727890015,
+      "name": "Chunian",
+      "slug": "pk-punjab-chunian",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.33155,
+      "longitude": 74.35286,
+      "name": "Daska",
+      "slug": "pk-punjab-daska",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.67065,
+      "longitude": 73.65541,
+      "name": "Depalpur",
+      "slug": "pk-punjab-depalpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.0474,
+      "longitude": 70.64999,
+      "name": "Dera Ghazi Khan",
+      "slug": "pk-punjab-dera-ghazi-khan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.217918,
+      "longitude": 72.996208,
+      "name": "Dijkot",
+      "slug": "pk-punjab-dijkot",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.030111,
+      "longitude": 73.600859,
+      "name": "Dina",
+      "slug": "pk-punjab-dina",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.804231,
+      "longitude": 71.740108,
+      "name": "Duniya Pur",
+      "slug": "pk-punjab-duniya-pur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.43331,
+      "longitude": 73.09542,
+      "name": "Faisalabad",
+      "slug": "pk-punjab-faisalabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.568584,
+      "longitude": 72.639068,
+      "name": "Fateh Jang",
+      "slug": "pk-punjab-fateh-jang",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.300462,
+      "longitude": 74.1466,
+      "name": "Ghakhar",
+      "slug": "pk-punjab-ghakhar",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.14665,
+      "longitude": 72.685,
+      "name": "Gojra",
+      "slug": "pk-punjab-gojra",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.25808,
+      "longitude": 73.30625,
+      "name": "Gujar Khan",
+      "slug": "pk-punjab-gujar-khan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.15756,
+      "longitude": 74.18539,
+      "name": "Gujranwala",
+      "slug": "pk-punjab-gujranwala",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.56686,
+      "longitude": 74.07791,
+      "name": "Gujrat",
+      "slug": "pk-punjab-gujrat",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.07283,
+      "longitude": 73.68153,
+      "name": "Hafizabad",
+      "slug": "pk-punjab-hafizabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.631196,
+      "longitude": 72.865719,
+      "name": "Harappa",
+      "slug": "pk-punjab-harappa",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.610498,
+      "longitude": 73.138885,
+      "name": "Haroonabad",
+      "slug": "pk-punjab-haroonabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.82153,
+      "longitude": 72.6759,
+      "name": "Hasan Abdal",
+      "slug": "pk-punjab-hasan-abdal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.69014,
+      "longitude": 72.53551,
+      "name": "Hasilpur",
+      "slug": "pk-punjab-hasilpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.45282,
+      "longitude": 73.69114,
+      "name": "Haveli lakha",
+      "slug": "pk-punjab-haveli-lakha",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.90571,
+      "longitude": 72.48056,
+      "name": "Hazro",
+      "slug": "pk-punjab-hazro",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.73865,
+      "longitude": 73.821949,
+      "name": "Hujra Shah Muqeem",
+      "slug": "pk-punjab-hujra-shah-muqeem",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.040161,
+      "longitude": 71.819394,
+      "name": "Jahanian",
+      "slug": "pk-punjab-jahanian",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.641954,
+      "longitude": 74.205527,
+      "name": "Jalal Pur Jatta",
+      "slug": "pk-punjab-jalal-pur-jatta",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.646395,
+      "longitude": 70.591262,
+      "name": "Jampur",
+      "slug": "pk-punjab-jampur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.510422,
+      "longitude": 70.851404,
+      "name": "Jatoi",
+      "slug": "pk-punjab-jatoi",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.283142,
+      "longitude": 72.285047,
+      "name": "Jauharabad",
+      "slug": "pk-punjab-jauharabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.263621838032,
+      "longitude": 72.343275547028,
+      "name": "Jhang",
+      "slug": "pk-punjab-jhang",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.93395,
+      "longitude": 73.72187,
+      "name": "Jhelum",
+      "slug": "pk-punjab-jhelum",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.404018,
+      "longitude": 71.862182,
+      "name": "Kabirwala",
+      "slug": "pk-punjab-kabirwala",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.640146,
+      "longitude": 71.905559,
+      "name": "Kahror Pakka",
+      "slug": "pk-punjab-kahror-pakka",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.723426,
+      "longitude": 72.645312,
+      "name": "Kamalia",
+      "slug": "pk-punjab-kamalia",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.97577,
+      "longitude": 74.22166,
+      "name": "Kamoke",
+      "slug": "pk-punjab-kamoke",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.1207,
+      "longitude": 74.45023,
+      "name": "Kasur",
+      "slug": "pk-punjab-kasur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.30561,
+      "longitude": 71.92818,
+      "name": "Khanewal",
+      "slug": "pk-punjab-khanewal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 28.64721,
+      "longitude": 70.65308,
+      "name": "Khanpur",
+      "slug": "pk-punjab-khanpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.807115415552,
+      "longitude": 73.894107341766,
+      "name": "Kharian",
+      "slug": "pk-punjab-kharian",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.29932,
+      "longitude": 72.32986,
+      "name": "Khushab",
+      "slug": "pk-punjab-khushab",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.47527,
+      "longitude": 70.96914,
+      "name": "Kot Addu",
+      "slug": "pk-punjab-kot-addu",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.47012,
+      "longitude": 74.34823,
+      "name": "Lahore",
+      "slug": "pk-punjab-lahore",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.702924,
+      "longitude": 73.954786,
+      "name": "Lala Musa",
+      "slug": "pk-punjab-lala-musa",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.95254,
+      "longitude": 70.94922,
+      "name": "Layyah",
+      "slug": "pk-punjab-layyah",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 28.939264,
+      "longitude": 70.948312,
+      "name": "Liaquatpur",
+      "slug": "pk-punjab-liaquatpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.54355,
+      "longitude": 71.63187,
+      "name": "Lodhran",
+      "slug": "pk-punjab-lodhran",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.79912,
+      "longitude": 72.17758,
+      "name": "Mailsi",
+      "slug": "pk-punjab-mailsi",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.57166,
+      "longitude": 73.50149,
+      "name": "Mandi Bahauddin",
+      "slug": "pk-punjab-mandi-bahauddin",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.105813,
+      "longitude": 73.636592,
+      "name": "Mangla",
+      "slug": "pk-punjab-mangla",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.43597,
+      "longitude": 72.34984,
+      "name": "Mian Chunnu",
+      "slug": "pk-punjab-mian-chunnu",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.58096,
+      "longitude": 71.54434,
+      "name": "Mianwali",
+      "slug": "pk-punjab-mianwali",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.2475,
+      "longitude": 72.108525,
+      "name": "Mitha Tiwana",
+      "slug": "pk-punjab-mitha-tiwana",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.18604,
+      "longitude": 71.45459,
+      "name": "Multan",
+      "slug": "pk-punjab-multan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.80639,
+      "longitude": 74.25316,
+      "name": "Muridike",
+      "slug": "pk-punjab-muridike",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.90856,
+      "longitude": 73.39157,
+      "name": "Murree",
+      "slug": "pk-punjab-murree",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.07266,
+      "longitude": 71.19415,
+      "name": "Muzaffargarh",
+      "slug": "pk-punjab-muzaffargarh",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.45264,
+      "longitude": 73.71172,
+      "name": "Nankana Sahib",
+      "slug": "pk-punjab-nankana-sahib",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.10513,
+      "longitude": 74.87369,
+      "name": "Narowal",
+      "slug": "pk-punjab-narowal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.43348605,
+      "longitude": 73.13725329,
+      "name": "Nasar Ullah Khan Town",
+      "slug": "pk-punjab-nasar-ullah-khan-town",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.81027,
+      "longitude": 73.45116,
+      "name": "Okara",
+      "slug": "pk-punjab-okara",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.34769,
+      "longitude": 73.3897,
+      "name": "Pakpattan",
+      "slug": "pk-punjab-pakpattan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.267294,
+      "longitude": 74.662799,
+      "name": "Pasrur",
+      "slug": "pk-punjab-pasrur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.029916,
+      "longitude": 73.851371,
+      "name": "Pattoki",
+      "slug": "pk-punjab-pattoki",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.588895,
+      "longitude": 73.043081,
+      "name": "Pind Dadan Khan",
+      "slug": "pk-punjab-pind-dadan-khan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.90337,
+      "longitude": 73.27878,
+      "name": "Pindi Bhattian",
+      "slug": "pk-punjab-pindi-bhattian",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.765,
+      "longitude": 72.43132,
+      "name": "Pirmahal",
+      "slug": "pk-punjab-pirmahal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 28.41642,
+      "longitude": 70.29975,
+      "name": "Rahimyar Khan",
+      "slug": "pk-punjab-rahimyar-khan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.24329,
+      "longitude": 74.21537,
+      "name": "Raiwind",
+      "slug": "pk-punjab-raiwind",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.854815,
+      "longitude": 72.549117,
+      "name": "Rajana",
+      "slug": "pk-punjab-rajana",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.10764,
+      "longitude": 70.32397,
+      "name": "Rajanpur",
+      "slug": "pk-punjab-rajanpur",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.495378,
+      "longitude": 72.718862,
+      "name": "Ratwal",
+      "slug": "pk-punjab-ratwal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.57205,
+      "longitude": 73.07259,
+      "name": "Rawalpindi",
+      "slug": "pk-punjab-rawalpindi",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.877624,
+      "longitude": 73.597054,
+      "name": "Renala Khurd",
+      "slug": "pk-punjab-renala-khurd",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 28.311094,
+      "longitude": 70.126122,
+      "name": "Sadiqabad",
+      "slug": "pk-punjab-sadiqabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.66095,
+      "longitude": 73.10028,
+      "name": "Sahiwal",
+      "slug": "pk-punjab-sahiwal",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.06259,
+      "longitude": 72.95366,
+      "name": "Samundri",
+      "slug": "pk-punjab-samundri",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.717197,
+      "longitude": 73.37554,
+      "name": "Sangla Hill",
+      "slug": "pk-punjab-sangla-hill",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.906902,
+      "longitude": 73.753781,
+      "name": "Sarai Alamgir",
+      "slug": "pk-punjab-sarai-alamgir",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.07855,
+      "longitude": 72.67759,
+      "name": "Sargodha",
+      "slug": "pk-punjab-sargodha",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.576172,
+      "longitude": 73.480976,
+      "name": "Shahkot",
+      "slug": "pk-punjab-shahkot",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.25494,
+      "longitude": 75.15685,
+      "name": "Shakargarh",
+      "slug": "pk-punjab-shakargarh",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.575303,
+      "longitude": 71.017094,
+      "name": "Shehr Sultan",
+      "slug": "pk-punjab-shehr-sultan",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 31.7172,
+      "longitude": 73.98633,
+      "name": "Sheikhüpura",
+      "slug": "pk-punjab-sheikhupura",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.831277,
+      "longitude": 73.734907,
+      "name": "Sher Garh",
+      "slug": "pk-punjab-sher-garh",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.83173,
+      "longitude": 72.076363,
+      "name": "Shorkot",
+      "slug": "pk-punjab-shorkot",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.49432,
+      "longitude": 74.53611,
+      "name": "Sialkot",
+      "slug": "pk-punjab-sialkot",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.930036,
+      "longitude": 72.419855,
+      "name": "Talagang",
+      "slug": "pk-punjab-talagang",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.74828,
+      "longitude": 72.83384,
+      "name": "Taxila",
+      "slug": "pk-punjab-taxila",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.96819,
+      "longitude": 72.47681,
+      "name": "Toba Tek singh",
+      "slug": "pk-punjab-toba-tek-singh",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 30.05183,
+      "longitude": 72.48526,
+      "name": "Vehari",
+      "slug": "pk-punjab-vehari",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 33.7663,
+      "longitude": 72.75146,
+      "name": "Wah",
+      "slug": "pk-punjab-wah",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 32.42901,
+      "longitude": 74.10053,
+      "name": "Wazirabad",
+      "slug": "pk-punjab-wazirabad",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    },
+    {
+      "latitude": 29.122812,
+      "longitude": 71.744142,
+      "name": "Yazman",
+      "slug": "pk-punjab-yazman",
+      "state": {
+        "slug": "pk-punjab",
+        "name": "Punjab"
+      }
+    }
+  ]
+}
